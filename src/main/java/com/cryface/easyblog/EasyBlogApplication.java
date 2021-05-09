@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EasyblogApplication {
+public class EasyBlogApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EasyblogApplication.class, args);
+        SpringApplication.run(EasyBlogApplication.class, args);
     }
 
 }
