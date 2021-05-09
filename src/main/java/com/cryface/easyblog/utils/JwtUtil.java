@@ -1,4 +1,4 @@
-package com.cryface.easyblog.uitls;
+package com.cryface.easyblog.utils;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

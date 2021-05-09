@@ -2,8 +2,7 @@ package com.cryface.easyblog.shiro;
 
 import com.cryface.easyblog.entity.User;
 import com.cryface.easyblog.service.UserService;
-import com.cryface.easyblog.uitls.JwtUtil;
-import io.jsonwebtoken.Claims;
+import com.cryface.easyblog.utils.JwtUtil;
 import org.apache.shiro.authc.*;
 import org.apache.shiro.authz.AuthorizationInfo;
 import org.apache.shiro.realm.AuthorizingRealm;
